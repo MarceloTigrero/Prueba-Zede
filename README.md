@@ -41,8 +41,8 @@ Dependencias principales utilizadas:
 ### **1. Clonar el Repositorio**
 Clona el repositorio en tu máquina local:
 ```bash
-git clone <url-del-repositorio>
-cd <nombre-del-proyecto>
+git clone [<url-del-repositorio>](https://github.com/MarceloTigrero/Prueba-Zede.git)
+cd Prueba-Zede
 ```
 
 ### **2. Instalar Dependencias**
